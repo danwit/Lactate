@@ -1,10 +1,10 @@
-# Lactate
+#Lactate
 
 `npm install -g lactate`
 
 An exceedingly fast static file handler, with a few electives.
 
-### Features
+###Features
 
 * In-memory caching
 * Redis caching
